@@ -1,0 +1,41 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@200&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Caveat&display=swap');
+
+nav {
+  background-color: rgb(77, 119, 255);
+}
+
+.infR {
+  font-size: 15px;
+  color: whitesmoke !important;
+  font-family: 'Montserrat', sans-serif;
+  margin-right: 12px;
+}
+
+.logo {
+  font-family: 'Caveat', cursive;
+  font-size: 45px !important;
+}
+
+.productos {
+  background-color: whitesmoke;
+  text-align: center;
+  color: rgb(86, 187, 241) !important;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 20px;
+  margin-top: 10px;
+  border-radius: 5px;
+}
+
+.tarjetaP {
+  margin-left: 25px;
+  text-align: center;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  background-color: whitesmoke;
+  margin-left: 5px;
+}
+
+.boton {
+  border-radius: 0%;
+}
